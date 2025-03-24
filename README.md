@@ -80,7 +80,10 @@ You’ll need to have Node 10.16.0 or later version on your local development ma
 
 To create a new app, you have to:
 
-Begin by cloning this repository to establish your own local copy. This process is straightforward and ensures you have all the necessary files and resources at your fingertips. You can find step-by-step instructions in this helpful article: Cloning a [repository on GitHub.com](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository).
+Begin by 
+1. Fork the repo
+2. Clone this repository to establish your own local copy. This process is straightforward and ensures you have all the necessary files and resources at your fingertips. You can find step-by-step instructions in this helpful article: Cloning a [repository on GitHub.com](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository).
+3. Run the app using the command `npm i` followed by `npm start`
 
 ## What's included
 
